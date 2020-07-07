@@ -1,0 +1,2 @@
+# Extracting-Image-Metadata-using-Python-
+In this repo, we are trying how we can extract some useful metadata within images using Pillow library in Python.  Devices such as digital cameras, smartphones and scanners uses the EXIF standard to save image or audio files. This standard contains many useful tags to extract which can be useful for forensic investigation, such as the make, model of the device, the exact date and time of image creation and even the GPS information on some devices.
